@@ -1,6 +1,6 @@
 baseURL = ""
 languageCode = "en-us"
-title = "Hugo-Cactus-theme-mod"
+title = "徐泽龙的悠哉日常"
 theme = "cactus"
 copyright = "You" # cactus will use title if copyright is not set
 # disqusShortname = "example" # Used when comments is enabled. Cactus will use site title if not set
@@ -65,7 +65,7 @@ weight = 4
   showAllPostsArchive = false # default
 
   # Home page settings
-  description = "Hugo-cactus-mod by 塔塔"
+  description = "记录本人悠哉日常事迹"
   mainSection = "posts" # your main section
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 10 # this option will be ignored if showAllPostsOnHomePage is set to true
